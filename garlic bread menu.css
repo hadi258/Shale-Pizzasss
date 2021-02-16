@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+.usman{
+	margin-left: 100px;
+}
+.rehan{
+	height: 470px;
+	width: 357px;
+	border: 0px solid red;
+	float: left;
+	margin-left: 150px;
+	background-color:white;
+}
+.img{
+	height: 350px;
+	width: 350px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.shopnow{
+	background-color: red;
+	color: white;
+	width: 80%;
+	border: 1px solid black;
+}
